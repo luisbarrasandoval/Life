@@ -1,7 +1,7 @@
 # Game Of Life - love2d
 
 ### Start
-* Install love2d `apt install love2d` in debian 11 and Ubuntu
+* Install love2d `apt install love` in debian 11 and Ubuntu
 * Execute: `love .` in the folder project
 
 ### Result
